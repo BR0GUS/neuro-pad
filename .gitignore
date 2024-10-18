@@ -51,6 +51,10 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# Folders
+obj/
+src/
+
 # IDE-specific files (you may want to add more depending on your setup)
 .vscode/
 .idea/
